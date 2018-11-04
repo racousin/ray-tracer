@@ -31,13 +31,19 @@ On Ubuntu you must install ```libgtk-3-dev```. Install the equivalent or your di
 ## Look at the videos !
 
 [Cube](https://github.com/racousin/ray-tracer/blob/develop/videos/cube.avi)
+
 [Sun](https://github.com/racousin/ray-tracer/blob/develop/videos/sun.avi)
+
 [Torus](https://github.com/racousin/ray-tracer/blob/develop/videos/torus.avi)
+
 [Zarb](https://github.com/racousin/ray-tracer/blob/develop/videos/zarb.avi)
 
 ## Contributions
 
 https://github.com/gpoblon
+
 https://github.com/mhammerc
+
 https://github.com/victorfour
+
 https://github.com/amerej
